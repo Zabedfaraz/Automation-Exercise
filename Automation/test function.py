@@ -1,0 +1,3 @@
+from Automation.automation_prac_TC1 import account_creation
+
+account_creation()
