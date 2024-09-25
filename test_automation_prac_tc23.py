@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import Select
 
 # initial info
 name = "Ron Wisley"
-email = "xxe@ii"
+email = "xxeq@ii"
 password = "121212"
 company = "People and Tech"
 address = "223/B, baker Street, East London"

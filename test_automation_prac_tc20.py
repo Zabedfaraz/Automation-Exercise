@@ -21,7 +21,7 @@ def driver():
     driver.quit()
 
 
-def test_automation_prac_tc19(driver):
+def test_automation_prac_tc20(driver):
 # 2. Navigate to url 'http://automationexercise.com'
     driver.get("http://automationexercise.com")
 

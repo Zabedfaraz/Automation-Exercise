@@ -34,6 +34,7 @@ def driver():
     yield driver
     driver.quit()
 
+
 def test_automation_prac_tc1(driver):
     # 2. Navigate to URL
     driver.get('http://automationexercise.com')
